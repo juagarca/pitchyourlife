@@ -1,5 +1,4 @@
 let team = [
-  "juagarca",
   "ClaireCullimore",
   "odealtry",
   "Karlsson2",
@@ -18,7 +17,8 @@ let team = [
   "mroses33",
   "HarDhillon",
   "betharms",
-  "SGrima1"
+  "SGrima1",
+  "lloydy500"
   ];
 
 const url = "https://kitt.lewagon.com/placeholder/users/";
