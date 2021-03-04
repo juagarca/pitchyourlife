@@ -15,7 +15,7 @@ let team = [
   "AnnelieseGerrard",
   "alfiehiscox",
   "mroses33",
-  "HarDhillon",
+  "juagarca",
   "betharms",
   "SGrima1",
   "lloydy500"

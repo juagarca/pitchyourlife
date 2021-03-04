@@ -43,7 +43,7 @@ body {
   background-image: url(image.png);
   background-position: center;
   background-size: cover;
-  transition: 0.5s all;
+  transition: 1s all;
 }
 
 .images {
